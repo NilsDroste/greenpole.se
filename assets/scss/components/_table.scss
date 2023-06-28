@@ -25,6 +25,8 @@
 
 		td {
 			padding: 0.75rem 0.75rem;
+			text-align: left;
+			vertical-align: middle;
 		}
 
 		th {
@@ -35,6 +37,7 @@
 			line-height: 1.5;
 			padding: 0 0.75rem 0.75rem 0.75rem;
 			text-align: left;
+			vertical-align: middle;
 			text-transform: uppercase;
 
 			@include breakpoint('<=medium') {

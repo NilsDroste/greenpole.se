@@ -11,7 +11,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
   # favicon = "favicon.ico"
   # set to change date format
   # dateFormat = "2.1.2006"
-  # backgroundPath = "images/bg.jpg"
+  # backgroundPath = "images/bg.png"
 
 # Below parameters can be set to override default post settings
 # [params.posts]
@@ -24,10 +24,15 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 [languages]
 [languages.en]
   languageName = "English"
-[languages.es]
-  languageName = "Español"
-  title = "Massively - Versión Español"
+# [languages.es]
+#  languageName = "Español"
+#  title = "Massively - Versión Español"
 #[languages.fr]
 #  languageName = "Français"
 #  title = "Massively - Version Française"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = false
+    
