@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "GreenPole"
-baseURL = "http://localhost:1313/"
+baseURL = "https://greenpole.netlify.app/"
 theme = "massively"
 googleanalytics = ""
 disqusShortname = ""
