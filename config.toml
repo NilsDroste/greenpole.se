@@ -1,5 +1,5 @@
 languageCode = "en-us"
-title = "Massively"
+title = "GreenPole"
 baseURL = "http://localhost:1313/"
 theme = "massively"
 googleanalytics = ""
