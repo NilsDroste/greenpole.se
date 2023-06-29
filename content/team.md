@@ -13,28 +13,6 @@ We have members from three Universities:
 |  ![Lund University](/images/LU.png)   |   ![Copenhagen University](/images/KU.png)  |  ![Helsinki University](/images/HU.png)   |
 |                 ----                  |                       ----                  |                     ----                  |
 
-
-<table>
-  <tr>
-    <td colspan="2">Ayonghe Nebasifu Akonwi</td>
-  </tr>
-  <tr>
-    <th><img src="/images/Ayonghe.jpg" alt="Ayonghe Nebasifu Akonwi"> </th>
-    <td valign="centre">
-        Ayonghe is an anthropologist and postdoc in the project. He interviews folks. <br>
-        <a href="https://researchportal.helsinki.fi/en/persons/akonwi-nebasifu-ayonghe">--> more info</a>
-    </td>
-  </tr>
-  <tr>
-    <td>Oranges</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>Grapes</td>
-    <td>35</td>
-  </tr>
-</table>
-
 ## Ayonghe Nebasifu Akonwi
 
 |                                                   |                                                                                  |
@@ -54,7 +32,7 @@ We have members from three Universities:
 
 |                                                   |                                                                                  |
 | :--------------------------------------------------| :-------------------------------------------------------------------------------|
-| ![Nils Droste](/images/Nils.jpg)         | Nils is a political scientists at LU, WP4 lead and project coordinator.  He programs stuff.      |
+| ![Nils Droste](/images/Nils.jpg)         | Nils is a political scientist at LU, WP4 lead and project coordinator.  He programs stuff.      |
 [--> more info](https://www.svet.lu.se/en/nils-droste)
 
 ## Hanna Ekström

@@ -3,4 +3,6 @@ items:
   url: '/approach'
 - title: 'The team'
   url: '/the-team'
+- title: The funders
+  url: '/the-funders'
 

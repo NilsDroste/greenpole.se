@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GreenPole</title>
+    <link>http://example.org/</link>
+    <description>Recent content on GreenPole</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 29 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://example.org/post/post1/</link>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/post1/</guid>
+      <description>We are live. This is a results of a communication strategy workshop that we had together with Research Retold. They also designed our beautiful logo, btw.
+Now we have build this site and will slowly be starting to populate it. In the meantime, check out our linkedIn page.</description>
+    </item>
+    
+    <item>
+      <title>Our Approach</title>
+      <link>http://example.org/approach/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/approach/</guid>
+      <description>Our mission GreenPole is an interdisciplinary research project, committed to decision support for a sustainable use of Nordic forests. We assess trade-offs and synergies between climate, biodiversity and human well-being in policy-making. Our approach is based on a socio-ecological systems understanding and scientific integrity.
+and methodology As depicted above, we think of forest governance as a socio-ecological system in which policy interventions affect how people interact with the ecosystem. Here, we consider the outcomes of human land use decisions in terms of extracted timber, carbon storage and habitat quality.</description>
+    </item>
+    
+    <item>
+      <title>The funders</title>
+      <link>http://example.org/the-funders/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/the-funders/</guid>
+      <description>We have obtained 15 million NOK from an interdisciplinary call from Nordforsk:
+We have also been granted 1 million SEK from SNS to work on our transdisciplinary outreach strategy. This communication package we call ForPol.</description>
+    </item>
+    
+    <item>
+      <title>The team</title>
+      <link>http://example.org/the-team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/the-team/</guid>
+      <description>We have members from three Universities:
+Ayonghe Nebasifu Akonwi Ayonghe is an anthropologist at HU and postdoc in the project. He interviews folks. &amp;ndash;&amp;gt; more info Dalia D&amp;rsquo;Amato Dalia is a sustainability scientist at HU and WP2 leader. She helps us understand the system. &amp;ndash;&amp;gt; more info Nils Droste Nils is a political scientist at LU, WP4 lead and project coordinator. He programs stuff. &amp;ndash;&amp;gt; more info Hanna Ekström Hanna is a geographer and environmental science PhD student at LU.</description>
+    </item>
+    
+  </channel>
+</rss>
