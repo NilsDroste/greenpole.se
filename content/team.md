@@ -19,14 +19,20 @@ We have members from three Universities:
 | :--------------------------------------------------| :-------------------------------------------------------------------------------|
 | ![Ayonghe Nebasifu Akonwi](/images/Ayonghe.jpg)    | Ayonghe is an anthropologist at HU and postdoc in the project.  He interviews folks.   |
 [--> more info](https://researchportal.helsinki.fi/en/persons/akonwi-nebasifu-ayonghe)
- 
+
+## Huntley Brownell
+
+|                                                   |                                                                                  |
+| :--------------------------------------------------| :-------------------------------------------------------------------------------|
+| ![Prescott Huntley Brownell II](/images/Huntley.jpg)   | Huntley is a forester and research assistant at KU.  He traces resource flows.     |
+[--> more info](https://ign.ku.dk/ansatte/alle-ansatte/?pure=da/persons/623009) 
+
 ## Dalia D'Amato
 
 |                                                   |                                                                                  |
 | :--------------------------------------------------| :-------------------------------------------------------------------------------|
 | ![Dalia D'Amato](/images/Dalia.jpg)       | Dalia is a sustainability scientist at HU and WP2 leader.  She helps us understand the system.  |
 [--> more info](https://researchportal.helsinki.fi/en/persons/dalia-damato)
-
 
 ## Nils Droste 
 
@@ -49,12 +55,12 @@ We have members from three Universities:
 | ![Alexia Fridén](/images/Alexia.jpg)      | Alexia is a political scientist and research assistant at LU.  She maps governance.    |
 [--> more info](https://www.linkedin.com/in/alexiafrid%C3%A9n?originalSubdomain=se)
 
-## Prescott Huntley Brownell II
+## Teemu Harrinkari
 
 |                                                   |                                                                                  |
 | :--------------------------------------------------| :-------------------------------------------------------------------------------|
-| ![Prescott Huntley Brownell II](/images/Huntley.jpg)   | Huntley is a forester and research assistant at KU.  He traces resource flows.     |
-[--> more info](https://ign.ku.dk/ansatte/alle-ansatte/?pure=da/persons/623009)
+| ![Teemu Harrinkari](/images/Teemu.jpg)       | Teemu is a sustainability scientist at HU.  He works on multilevel governance.  |
+[--> more info](https://researchportal.helsinki.fi/en/persons/teemu-tapio-harrinkari)
 
 ## Bogomil Emilov Iliev
 
