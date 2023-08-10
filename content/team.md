@@ -13,7 +13,7 @@ We have members from three Universities:
 |  ![Lund University](/images/LU.png)   |   ![Copenhagen University](/images/KU.png)  |  ![Helsinki University](/images/HU.png)   |
 |                 ----                  |                       ----                  |                     ----                  |
 
-## Ayonghe Nebasifu Akonwi
+## Ayonghe N. Akonwi
 
 |                                                   |                                                                                  |
 | :--------------------------------------------------| :-------------------------------------------------------------------------------|
