@@ -8,12 +8,12 @@
     <language>en</language>
     <lastBuildDate>Thu, 29 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello World</title>
+      <title>This is GreenPole</title>
       <link>http://example.org/post/post1/</link>
       <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/post/post1/</guid>
-      <description>We are live. This is a results of a communication strategy workshop that we had together with Research Retold. They also designed our beautiful logo, btw.
+      <description>We are are an interdisciplinary project team working to understand complexities and trade-offs in forest policy making. Please have a look around and get in touch!
 Now we have build this site and will slowly be starting to populate it. In the meantime, check out our linkedIn page.</description>
     </item>
     
