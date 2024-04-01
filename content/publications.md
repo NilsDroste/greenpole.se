@@ -17,7 +17,7 @@ disableComments: true
 
 ## Working Papers
 
-+ Nebasifu, A., D'Amato, D., Ekstrom, H., Pietarinen, N., Fridén, A., Harrinkari, T., ... & Droste, N. (2024) Comparing Nordic Forest Governance: Key Informant Perspectives. *Available on SSRN*. doi: [10.2139/ssrn.4724850](https://dx.doi.org/10.2139/ssrn.4724850) 
++ Nebasifu, A., D'Amato, D., Ekström, H., Pietarinen, N., Fridén, A., Harrinkari, T., ... & Droste, N. (2024) Comparing Nordic Forest Governance: Key Informant Perspectives. *Available on SSRN*. doi: [10.2139/ssrn.4724850](https://dx.doi.org/10.2139/ssrn.4724850) 
 
 + Iliev, B., Bentsen, N., Brownell, P., Droste, N. D'Amato, D. Arto, I. May, W., Thomsen, M., (2024) A Conceptual Framework for Assessing Pathways Towards Climate Neutrality and Biodiversity Conservation in a Circular Forest-Based Economy. *Available on SSRN*. doi: [10.2139/ssrn.4690517](http://dx.doi.org/10.2139/ssrn.4690517)
 
