@@ -7,6 +7,8 @@ disableComments: true
 
 ## Journal Articles
 
++ Nebasifu, A. A., Pietarinen, N., Fridén, A., Ekström, H., Harrinkari, T., D'amato, D., & Droste, N. (2024). Forest policy in Nordic countries: Expert opinions on future needs, uncertainties, and recommendations. Trees, Forests and People, 100582. doi: [10.1016/j.tfp.2024.100582](https://doi.org/10.1016/j.tfp.2024.100582)
+
 + Ekström, H., Danley, B., Clough, Y., & Droste, N. (2024). Barking up the wrong tree?-A guide to forest owner typology methods. Forest Policy and Economics, 163, 103208. doi: [10.1016/j.forpol.2024.103208](https://doi.org/10.1016/j.forpol.2024.103208)
 
 + Ekström, H., Droste, N., & Brady, M. (2024). Modelling forests as social-ecological systems: A systematic comparison of agent-based approaches. *Environmental Modelling & Software*, 105998. doi: [10.1016/j.envsoft.2024.105998](https://doi.org/10.1016/j.envsoft.2024.105998)
@@ -19,7 +21,7 @@ disableComments: true
 
 + Nebasifu, A., D'Amato, D., Ekström, H., Pietarinen, N., Fridén, A., Harrinkari, T., ... & Droste, N. (2024) Comparing Nordic Forest Governance: Key Informant Perspectives. *Available on SSRN*. doi: [10.2139/ssrn.4724850](https://dx.doi.org/10.2139/ssrn.4724850) 
 
-+ Iliev, B., Bentsen, N., Brownell, P., Droste, N. D'Amato, D. Arto, I. May, W., Thomsen, M., (2024) A Conceptual Framework for Assessing Pathways Towards Climate Neutrality and Biodiversity Conservation in a Circular Forest-Based Economy. *Available on SSRN*. doi: [10.2139/ssrn.4690517](http://dx.doi.org/10.2139/ssrn.4690517)
+<!-- + Iliev, B., Bentsen, N., Brownell, P., Droste, N. D'Amato, D. Arto, I. May, W., Thomsen', M., (2024) A Conceptual Framework for Assessing Pathways Towards Climate Neutrality and Biodiversity Conservation in a Circular Forest-Based Economy. *Available on SSRN*. doi: [10.2139/ssrn.4690517](http://dx.doi.org/10.2139/ssrn.4690517) -->
 
 
 
